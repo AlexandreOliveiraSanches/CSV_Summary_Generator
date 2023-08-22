@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\bin\Debug\net7.0\CSV_Summary_Generator.exe
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\bin\Debug\net7.0\CSV_Summary_Generator.deps.json
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\bin\Debug\net7.0\CSV_Summary_Generator.runtimeconfig.json
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\bin\Debug\net7.0\CSV_Summary_Generator.dll
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\bin\Debug\net7.0\CSV_Summary_Generator.pdb
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.AssemblyInfo.cs
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.dll
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\refint\CSV_Summary_Generator.dll
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.pdb
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\CSV_Summary_Generator.genruntimeconfig.cache
+C:\codigos\projetos C#\CSV_Summary_Generator\CSV_Summary_Generator\obj\Debug\net7.0\ref\CSV_Summary_Generator.dll
